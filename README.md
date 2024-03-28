@@ -8,7 +8,7 @@ The broader scope of this project is to practice and showcase our understanding 
 [![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/images/0)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/links/0)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/images/1)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/links/1)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/images/2)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/links/2)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/images/3)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/links/3)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/images/4)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/links/4)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/images/5)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/links/5)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/images/6)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/links/6)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/images/7)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/automated-teller-machine/links/7)
 
 * Brian - Lead Programmer, developed class structures, and handled documentation.
-* Kaeleb - Programmer, developed header & implementation files.
+* Kaleab - Programmer, developed header & implementation files.
 * Sebastian - Programmer, helped develop 'main' user interface
 
 # Requirements 
